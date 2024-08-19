@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.verticalLine {
+  border-left: thick solid #ff6464;
+}
+
+.submissionButton {
+  float: right;
+}
+
+.headerBackground {
+  background: #efe6e6;
+}
+
+.filterSelectors {
+  display: inline-block;
+  padding: 5px;
+}
+
+.logo {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.padding {
+  padding: 10px;
+}
+
+.center {
+  text-align: center;
+}
