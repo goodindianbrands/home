@@ -1,0 +1,42 @@
+{
+  "companies": {
+    "EVkGh9Lf": {
+      "name": "Sprout me",
+      "description": "Sprouting jar designed for sprouting Indian beans: particularly moong beans, Mot ( matki) beans, Whole black gram ( Kala chana), whole red lentils (Kala masoor ), \u2060Field beans (vaal), \u2060Kidney beans (rajma). The sprout jar lid holes are also designed for sprouting smaller seeds such as Methi, Alfalfa, Broccoli seeds, Radish, Mixed seeds, millets, and micro greens. Designed for sprouting in the Indian climate where germination requires optimum drainage and ventilation for crunchy sprouts. Simple to use: Soak beans in the sprouting jar overnight, drain, and put the jar in the slanting position. Rinse and drain 1-2 times per day and within 2-4 days you have delicious crunchy hygienic sprouts! How it works: Ventilation and draining are key to successful sprouting. A specially designed lid with 132 small holes provides optimum ventilation, and the lid stand puts the jar at the exact perfect angle for drainage. The sprouting jar helps in faster and more hygienic germination when you sprout beans or seeds. Easy to clean: The jar and lid are easy to clean! we recommend you use two separate sprout-meTM jars for sprouting a variety of beans and sprouts. A perfect gift! The unique design makes a statement in every home! And sprout-meTM comes in a fitted box gift packing.",
+      "imagePath": "/my-react-app/images/companies/sprout-me.jpg",
+      "websiteLink": "https://sproutme.co.in/",
+      "youtubeLink": "https://www.youtube.com/watch?v=FRd-wEPe-24",
+      "instagramLink": "https://www.instagram.com/sproutmeindia/",
+      "amazon": [
+          "https://www.amazon.in/dp/B0CWMMZKNQ",
+          "https://www.amazon.in/dp/B0CZLQFHG1"
+      ],
+      "flipkart": [
+          "https://www.flipkart.com/sprout-me-glass-sprout-maker-720-ml/p/itm4fb2dfd57ace7",
+          "https://www.flipkart.com/sprout-me-glass-sprout-maker-720-ml/p/itmca0373482fbb7"
+      ],
+      "tags": [
+        "kitchen",
+        "health",
+        "food"
+      ]
+    },
+    "4vxVowE1": {
+      "name": "Slurrp Farm",
+      "description": "Slurrp Farm snacks are designed to bring the goodness of traditional grains to your kitchen. They use wholesome ingredients like moong beans, matki beans, kala chana (whole black gram), and millet to create tasty, nutritious snacks that are perfect for Indian households. Their products are also great for smaller seeds and grains, like methi, alfalfa, and broccoli seeds, making them ideal for health-conscious families. Created for the Indian climate, these snacks maintain their crunchiness and freshness with the right balance of moisture. Simple to prepare: just open, enjoy, and feel good about the nutrition you're getting. With a focus on quality and health, Slurrp Farm snacks are a great way to add variety and nutrition to your diet. The easy-to-use packaging ensures that every bite is hygienic and fresh. These snacks make a thoughtful gift too, perfect for anyone who values healthy eating. The unique designs and vibrant packaging will add a pop of color and health to any home!",
+      "imagePath": "/my-react-app/images/companies/coming-soon.jpeg",
+      "websiteLink": "https://slurrpfarm.com/",
+      "amazon": [
+        "https://www.amazon.in/dp/B0CWMMZKNQ",
+        "https://www.amazon.in/dp/B0CZLQFHG1"
+      ],
+      "flipkart": [
+        "https://www.flipkart.com/sprout-me-glass-sprout-maker-720-ml/p/itm4fb2dfd57ace7",
+        "https://www.flipkart.com/sprout-me-glass-sprout-maker-720-ml/p/itmca0373482fbb7"
+      ],
+      "tags": [
+        "kitchen"
+      ]
+    }
+  }
+}

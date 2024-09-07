@@ -44,3 +44,7 @@ code {
 .center {
   text-align: center;
 }
+
+.inline-display {
+  display: inline-block;
+}

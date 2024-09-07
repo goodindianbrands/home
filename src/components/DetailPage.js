@@ -1,8 +1,8 @@
-import './App.css';
+import '../css/App.css';
 import Header from "./Header";
-import {getQueryParams, getYoutubeEmbedId} from "./utils/urlUtils";
-import {getCompanyDetails} from "./utils/companyUtils";
-import YoutubeEmbed from "./components/YoutubeEmbed";
+import {getQueryParams, getYoutubeEmbedId} from "../js-utils/urlUtils";
+import {getCompanyDetails} from "../js-utils/companyUtils";
+import YoutubeEmbed from "./YoutubeEmbed";
 
 function YoutubeRender({youtubeLink}) {
     const embedId = getYoutubeEmbedId(youtubeLink)
