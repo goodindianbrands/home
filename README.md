@@ -21,6 +21,7 @@ Make any changes to the package and you can verify the changes at `http://localh
 ```
 npm run deploy
 ```
+This will package the code and deploy it to github pages.
 
 ## Generate companies.json file
 
@@ -32,7 +33,7 @@ npm run generate-id
 
 ## Troubleshooting
 
-* If you see `ProcessError: error: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400" when running "npm run deploy`, run the below config change
+* If you see `ProcessError: error: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400` when running `npm run deploy`, run the below config change
 
 ```
 git config --global http.postBuffer 157286400
