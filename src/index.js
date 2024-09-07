@@ -12,7 +12,7 @@ const router = createBrowserRouter([
         element: <div>Hello world!</div>,
     },
     {
-        path: "/my-react-app",
+        path: "/home",
         element: <Home />,
     },
     {

@@ -1,6 +1,6 @@
 {
-  "homepage": "http://goodindianbrands.github.io/my-react-app/",
-  "name": "my-react-app",
+  "homepage": "http://goodindianbrands.github.io/home/",
+  "name": "home",
   "version": "0.1.0",
   "private": true,
   "peerDependencies": {

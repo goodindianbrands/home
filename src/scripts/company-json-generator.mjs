@@ -89,7 +89,7 @@ csvToJson(companiesCsvFilepath)
                     companyValue["websiteLink"] = websiteLink;
 
                     if(imagename !== null) {
-                        companyValue["imagePath"] = "/my-react-app/images/companies/" + imagename;
+                        companyValue["imagePath"] = "/home/images/companies/" + imagename;
                     }
 
                     if(youtubeLink !== null) {
