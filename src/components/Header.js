@@ -11,7 +11,6 @@ import {
     Typography,
     useMediaQuery
 } from "@mui/material";
-import logo from "../data/images/app/good-indian-brands-logo.jpeg";
 import React from "react";
 
 const theme = createTheme({
@@ -25,10 +24,14 @@ const theme = createTheme({
     },
 });
 
+const Logo = () => (
+    <img src="/home/images/app/logo.jpeg" alt="Logo" style={{height: 40, marginRight: 8}}/>
+);
+
 const Description = () => (
-  <div>
-      <CardContent>
-          <ThemeProvider theme={theme}>
+    <div>
+        <CardContent>
+            <ThemeProvider theme={theme}>
               <Typography variant="body1" color="text.primary">
                   Good India Brands is your go-to platform for discovering a curated list of exceptional, yet
                   lesser-known brands across India.
@@ -55,7 +58,7 @@ const MobileHeader = ({ embedId }) => (
                     sx={{width: '100%', maxWidth: '1200px', margin: '0 auto'}}
                 >
                     <Box display="flex" alignItems="center">
-                        <img src={logo} alt="Logo" style={{height: 40, marginRight: 8}}/>
+                        <Logo/>
                         <Typography variant="h5" color="textPrimary">
                             Good Indian Brands
                         </Typography>
@@ -90,7 +93,7 @@ const DesktopHeader = ({embedId}) => (
                     sx={{width: '100%', maxWidth: '1200px', margin: '0 auto'}}
                 >
                     <Box display="flex" alignItems="center">
-                        <img src={logo} alt="Logo" style={{height: 40, marginRight: 8}}/>
+                        <Logo/>
                         <Typography variant="h4" color="textPrimary">
                             Good Indian Brands
                         </Typography>
