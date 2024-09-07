@@ -1,5 +1,4 @@
-import BrandCard, {DesktopCard, MobileCard} from "./BrandCard";
-import {getAllCompanies} from "../js-utils/companyUtils";
+import {DesktopCard, MobileCard} from "./BrandCard";
 import React from "react";
 import {useMediaQuery} from "@mui/material";
 

@@ -25,7 +25,7 @@ const theme = createTheme({
     },
 });
 
-const Description = ({}) => (
+const Description = () => (
   <div>
       <CardContent>
           <ThemeProvider theme={theme}>
