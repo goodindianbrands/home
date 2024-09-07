@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/home/static/css/main.a06c1a99.css",
-    "main.js": "/home/static/js/main.5a8c8a42.js",
+    "main.js": "/home/static/js/main.b08c8bfd.js",
     "static/js/453.726a9731.chunk.js": "/home/static/js/453.726a9731.chunk.js",
-    "static/media/good-indian-brands-logo.jpeg": "/home/static/media/good-indian-brands-logo.3fe891585bcbf84edad7.jpeg",
     "index.html": "/home/index.html",
     "main.a06c1a99.css.map": "/home/static/css/main.a06c1a99.css.map",
-    "main.5a8c8a42.js.map": "/home/static/js/main.5a8c8a42.js.map",
+    "main.b08c8bfd.js.map": "/home/static/js/main.b08c8bfd.js.map",
     "453.726a9731.chunk.js.map": "/home/static/js/453.726a9731.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a06c1a99.css",
-    "static/js/main.5a8c8a42.js"
+    "static/js/main.b08c8bfd.js"
   ]
 }
