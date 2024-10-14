@@ -23,7 +23,7 @@ export function getCompaniesByTags(tags) {
     const companiesForGivenTags = new Map();
     allCompanies.forEach((value, key) => {
         tags.forEach(tag => {
-            if(value.tags.includes(tag)) {
+            if(value.tags && value.tags.includes(tag)) {
                 companiesForGivenTags.set(key, value)
             }
         });
